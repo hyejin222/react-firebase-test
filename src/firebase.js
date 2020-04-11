@@ -2,14 +2,14 @@ import firebase from "firebase/app";
 import 'firebase/firestore'
 
 var firebaseConfig = {
-	apiKey: "AIzaSyCROyHzpLm0rW4WxmR0OJnIb5hwYSS0Xxg",
-	authDomain: "react-chat-3de88.firebaseapp.com",
-	databaseURL: "https://react-chat-3de88.firebaseio.com",
-	projectId: "react-chat-3de88",
-	storageBucket: "react-chat-3de88.appspot.com",
-	messagingSenderId: "222593763462",
-	appId: "1:222593763462:web:20f727d6a54505b9676907",
-	measurementId: "G-01JDWCBY4V"
+	apiKey: "AIzaSyBZvb_0EQ6MjFPVLFr6KoJjhNq3gqnXTPE",
+	authDomain: "react-firebase-481c6.firebaseapp.com",
+	databaseURL: "https://react-firebase-481c6.firebaseio.com",
+	projectId: "react-firebase-481c6",
+	storageBucket: "react-firebase-481c6.appspot.com",
+	messagingSenderId: "239294961028",
+	appId: "1:239294961028:web:e5f2890b56bf4db65279d1",
+	measurementId: "G-NKHJ382MQ6"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
